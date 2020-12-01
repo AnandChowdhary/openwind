@@ -12,7 +12,7 @@ This library, however, is an MIT-licensed (free and open-source) set of UI compo
 
 ## 🍥 Samples
 
-- *Coming soon*
+- [Puppet (SaaS landing page)](pages/puppet.html)
 
 ## 📄 License
 
