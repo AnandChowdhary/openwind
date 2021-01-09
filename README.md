@@ -10,6 +10,11 @@ The creators of Tailwind.css recently introduced [**Tailwind UI**](https://tailw
 
 This library, however, is an MIT-licensed (free and open-source) set of UI components. Think of it like Tailwind UI, much more limited but free. You can use these components instead if you have a limited budget, or if you require MIT-licensed code.
 
+## Components
+
+- [Button](https://anandchowdhary.github.io/openwind/components/button.html)
+- [Button group](https://anandchowdhary.github.io/openwind/components/button-group.html)
+
 ## 🍥 Samples
 
 <!-- prettier-ignore -->
